@@ -28,8 +28,8 @@ export default function Home() {
 
   const defaultLogo = {
     src: "/images/logo.svg",
-    height: 90,
-    width: 90,
+    height: 50,
+    width: 50,
     excavate: true,
   };
 
@@ -159,8 +159,8 @@ export default function Home() {
                           ...(customLogo
                             ? {
                                 src: customLogo,
-                                height: 90,
-                                width: 90,
+                                height: 50,
+                                width: 50,
                                 excavate: true,
                               }
                             : defaultLogo),
