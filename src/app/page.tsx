@@ -28,8 +28,8 @@ export default function Home() {
 
   const defaultLogo = {
     src: "/images/logo.svg",
-    height: 50,
-    width: 50,
+    height: 90,
+    width: 90,
     excavate: true,
   };
 
