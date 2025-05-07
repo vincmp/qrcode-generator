@@ -179,7 +179,7 @@ export default function Home() {
               onClick={downloadQR}
               className="flex-1 bg-yellow-400 text-white py-2 rounded-[20px] hover:bg-yellow-500 transition"
             >
-              .PNG
+              Baixar QRCode
             </button>
           </div>
         </div>
